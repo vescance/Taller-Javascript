@@ -1,0 +1,15 @@
+{
+    "name": "Taller de JavaScript",
+    "version": "1.0.0",
+    "description": "Taller de JavaScript, presentado al instructor Julian LAsso",
+    "repository" : {
+      "type" : "git",
+      "url" : "URL DEL TALLER EJEMPLO: [https://github.com/....]"
+      },
+    "license" : "MIT",
+    "author": "Sebastian Vescance Marin",
+    "dependencias": {
+      "bootstrap": "^3.3.7",
+      "jquery": ^3.2.1,
+    }
+}
